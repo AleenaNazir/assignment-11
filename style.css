@@ -1,0 +1,25 @@
+.upper{
+    width: 660px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    
+}
+.a{
+    width: 220px;
+    height: 400px;
+    background-color:#002395 ;
+        
+}
+.b{
+    width: 220px;
+    height: 400px;
+    background-color:#ffffff;
+
+}
+.c{
+    width: 220px;
+    height:400px;
+    background-color: #ed2939;
+
+}
